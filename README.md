@@ -1,16 +1,23 @@
-## Hi there 👋
+# João Pedro Silva da Silva
 
-<!--
-**PedroJoao17/PedroJoao17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de TI | Desenvolvedor Full Stack Jr | Java | Spring Boot | Angular | Node.js | Docker | n8n
 
-Here are some ideas to get you started:
+Sou profissional de Tecnologia da Informação com atuação em desenvolvimento web, suporte técnico, automação de processos, sustentação de sistemas e integrações internas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com Java, Spring Boot, Node.js, Angular, MySQL, Docker, GitHub Actions, n8n e GLPI, atuando na criação e manutenção de APIs REST, interfaces web, automações, monitoramento por endpoints e melhoria de processos internos.
+
+## Principais stacks
+
+- Backend: Java, Spring Boot, Node.js, Express
+- Frontend: Angular, TypeScript, HTML, CSS, JavaScript
+- Banco de dados: MySQL, MongoDB
+- DevOps/Automação: Docker, GitHub Actions, n8n
+- Suporte e processos: GLPI, troubleshooting, documentação, Kanban/Scrum
+
+## Projetos em destaque
+
+- API Java/Spring Boot para gestão de processos internos
+- Aplicação Angular integrada a APIs REST
+- Backend Node.js/Express com banco de dados
+- Automação e monitoramento com n8n
+- Deploy com Docker e GitHub Actions
